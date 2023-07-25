@@ -1,0 +1,10 @@
+* authenticated-encryption
+
+A implementation of Authenticated Encryption of Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/kkazuo/authenticated-encryption.git   |
+| commit  | fe67a20  |
+| systems | authenticated-encryption |
+|---------+-------------------------------------------|
+
